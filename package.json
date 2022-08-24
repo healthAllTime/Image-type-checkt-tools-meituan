@@ -1,0 +1,11 @@
+{
+  "name": "imageTypeCheck",
+  "version": "1.0.0",
+  "description": "用于对图片各项数据进行卡控的工具，一期仅支持图片类型的校验",
+  "main": "main.js",
+  "author": "柯镇恶",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.7.12"
+  }
+}
